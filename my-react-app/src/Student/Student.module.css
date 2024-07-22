@@ -1,0 +1,16 @@
+.studentCard{
+    background-color: rgb(152, 207, 255);
+    padding: 15px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.studentCard p{
+    font-weight: bold;
+    margin: 0;
+}
+.studentCard p span{
+    color: rgb(164, 0, 0);
+    font-size: 18px;
+    font-weight: bold;
+}
